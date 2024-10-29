@@ -1,40 +1,40 @@
-category_name,category_url
-Administration,https://www.manoalga.lt/en/salaryinfo/administration
-"Agriculture, Food Industry",https://www.manoalga.lt/en/salaryinfo/agriculture-food-industry
-Arts & Culture,https://www.manoalga.lt/en/salaryinfo/arts-culture
-Banking,https://www.manoalga.lt/en/salaryinfo/banking
-Car Industry,https://www.manoalga.lt/en/salaryinfo/car-industry
-Chemical Industry,https://www.manoalga.lt/en/salaryinfo/chemical-industry
-Commerce,https://www.manoalga.lt/en/salaryinfo/commerce
-Construction & Real Estate,https://www.manoalga.lt/en/salaryinfo/construction-real-estate
-Customer Support,https://www.manoalga.lt/en/salaryinfo/customer-support
-"Economy, Finance, Accountancy",https://www.manoalga.lt/en/salaryinfo/economy-finance-accountancy
-"Education, Science & Research",https://www.manoalga.lt/en/salaryinfo/education-science-research
-Electrical & Power Engineering,https://www.manoalga.lt/en/salaryinfo/electrical-power-engineering
-General labour,https://www.manoalga.lt/en/salaryinfo/general-labour
-Human Resources,https://www.manoalga.lt/en/salaryinfo/human-resources
-Information Technology,https://www.manoalga.lt/en/salaryinfo/information-technology
-Insurance,https://www.manoalga.lt/en/salaryinfo/insurance
-"Journalism, Printing Arts & Media",https://www.manoalga.lt/en/salaryinfo/journalism-printing-arts-media
-Law & Legislation,https://www.manoalga.lt/en/salaryinfo/law-legislation
-Leasing,https://www.manoalga.lt/en/salaryinfo/leasing
-Management,https://www.manoalga.lt/en/salaryinfo/management
-"Marketing, Advertising, PR",https://www.manoalga.lt/en/salaryinfo/marketing-advertising-pr
-Mechanical Engineering,https://www.manoalga.lt/en/salaryinfo/mechanical-engineering
-Medicine & Social Care,https://www.manoalga.lt/en/salaryinfo/medicine-social-care
-"Mining, Metallurgy",https://www.manoalga.lt/en/salaryinfo/mining-metallurgy
-Pharmaceutical Industry,https://www.manoalga.lt/en/salaryinfo/pharmaceutical-industry
-Production,https://www.manoalga.lt/en/salaryinfo/production
-"Public Administration, Self-governance",https://www.manoalga.lt/en/salaryinfo/public-administration-self-governance
-Quality Management,https://www.manoalga.lt/en/salaryinfo/quality-management
-Security & Protection,https://www.manoalga.lt/en/salaryinfo/security-protection
-Service Industries,https://www.manoalga.lt/en/salaryinfo/service-industries
-"Technology, Development",https://www.manoalga.lt/en/salaryinfo/technology-development
-Telecommunications,https://www.manoalga.lt/en/salaryinfo/telecommunications
-"Textile, Leather, Apparel Industry",https://www.manoalga.lt/en/salaryinfo/textile-leather-apparel-industry
-Top Management,https://www.manoalga.lt/en/salaryinfo/top-management
-"Tourism, Gastronomy, Hotel Business",https://www.manoalga.lt/en/salaryinfo/tourism-gastronomy-hotel-business
-"Translating, interpreting",https://www.manoalga.lt/en/salaryinfo/translating-interpreting
-"Transport, Haulage, Logistics",https://www.manoalga.lt/en/salaryinfo/transport-haulage-logistics
-"Water Management, Forestry, Environment",https://www.manoalga.lt/en/salaryinfo/water-management-forestry-environment
-Wood Processing Industry,https://www.manoalga.lt/en/salaryinfo/wood-processing-industry
+category_name,category_url,min_salary,max_salary,avg_salary
+Administration,https://www.manoalga.lt/en/salaryinfo/administration,884.0,2120.0,1502.0
+"Agriculture, Food Industry",https://www.manoalga.lt/en/salaryinfo/agriculture-food-industry,,,
+Arts & Culture,https://www.manoalga.lt/en/salaryinfo/arts-culture,,,
+Banking,https://www.manoalga.lt/en/salaryinfo/banking,,,
+Car Industry,https://www.manoalga.lt/en/salaryinfo/car-industry,,,
+Chemical Industry,https://www.manoalga.lt/en/salaryinfo/chemical-industry,,,
+Commerce,https://www.manoalga.lt/en/salaryinfo/commerce,,,
+Construction & Real Estate,https://www.manoalga.lt/en/salaryinfo/construction-real-estate,,,
+Customer Support,https://www.manoalga.lt/en/salaryinfo/customer-support,,,
+"Economy, Finance, Accountancy",https://www.manoalga.lt/en/salaryinfo/economy-finance-accountancy,,,
+"Education, Science & Research",https://www.manoalga.lt/en/salaryinfo/education-science-research,,,
+Electrical & Power Engineering,https://www.manoalga.lt/en/salaryinfo/electrical-power-engineering,,,
+General labour,https://www.manoalga.lt/en/salaryinfo/general-labour,,,
+Human Resources,https://www.manoalga.lt/en/salaryinfo/human-resources,,,
+Information Technology,https://www.manoalga.lt/en/salaryinfo/information-technology,,,
+Insurance,https://www.manoalga.lt/en/salaryinfo/insurance,,,
+"Journalism, Printing Arts & Media",https://www.manoalga.lt/en/salaryinfo/journalism-printing-arts-media,,,
+Law & Legislation,https://www.manoalga.lt/en/salaryinfo/law-legislation,,,
+Leasing,https://www.manoalga.lt/en/salaryinfo/leasing,,,
+Management,https://www.manoalga.lt/en/salaryinfo/management,,,
+"Marketing, Advertising, PR",https://www.manoalga.lt/en/salaryinfo/marketing-advertising-pr,,,
+Mechanical Engineering,https://www.manoalga.lt/en/salaryinfo/mechanical-engineering,,,
+Medicine & Social Care,https://www.manoalga.lt/en/salaryinfo/medicine-social-care,,,
+"Mining, Metallurgy",https://www.manoalga.lt/en/salaryinfo/mining-metallurgy,,,
+Pharmaceutical Industry,https://www.manoalga.lt/en/salaryinfo/pharmaceutical-industry,,,
+Production,https://www.manoalga.lt/en/salaryinfo/production,,,
+"Public Administration, Self-governance",https://www.manoalga.lt/en/salaryinfo/public-administration-self-governance,,,
+Quality Management,https://www.manoalga.lt/en/salaryinfo/quality-management,,,
+Security & Protection,https://www.manoalga.lt/en/salaryinfo/security-protection,,,
+Service Industries,https://www.manoalga.lt/en/salaryinfo/service-industries,,,
+"Technology, Development",https://www.manoalga.lt/en/salaryinfo/technology-development,,,
+Telecommunications,https://www.manoalga.lt/en/salaryinfo/telecommunications,,,
+"Textile, Leather, Apparel Industry",https://www.manoalga.lt/en/salaryinfo/textile-leather-apparel-industry,,,
+Top Management,https://www.manoalga.lt/en/salaryinfo/top-management,,,
+"Tourism, Gastronomy, Hotel Business",https://www.manoalga.lt/en/salaryinfo/tourism-gastronomy-hotel-business,,,
+"Translating, interpreting",https://www.manoalga.lt/en/salaryinfo/translating-interpreting,,,
+"Transport, Haulage, Logistics",https://www.manoalga.lt/en/salaryinfo/transport-haulage-logistics,,,
+"Water Management, Forestry, Environment",https://www.manoalga.lt/en/salaryinfo/water-management-forestry-environment,,,
+Wood Processing Industry,https://www.manoalga.lt/en/salaryinfo/wood-processing-industry,,,

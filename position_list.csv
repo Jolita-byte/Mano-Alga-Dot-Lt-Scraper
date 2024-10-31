@@ -1,4 +1,4 @@
-position_name,position_url,position_min_salary,position_max_salary,category_name,category_url,category_min_salary,category_max_salary
+position_name,position_url,position_10%_salary,position_90%_salary,category_name,category_url,category_10%_salary,category_90%_salary
 Administrative Worker,https://www.manoalga.lt/en/salaryinfo/administration/administrative-worker,848.0,1997.0,Administration,https://www.manoalga.lt/en/salaryinfo/administration,884.0,2120.0
 "Archivist, Registry Administrator",https://www.manoalga.lt/en/salaryinfo/administration/archivist-registry-administrator,805.0,1833.0,Administration,https://www.manoalga.lt/en/salaryinfo/administration,884.0,2120.0
 Assistant,https://www.manoalga.lt/en/salaryinfo/administration/assistant,869.0,1846.0,Administration,https://www.manoalga.lt/en/salaryinfo/administration,884.0,2120.0
